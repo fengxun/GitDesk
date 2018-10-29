@@ -3,6 +3,12 @@ branch 1 content
 branch 1 content 2
 Master did something then
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+then change after change
+
+>>>>>>> 5131a485e6a8ce6b1bb82cd62afb4d01f2ecd994
 =======
 
 then change after change
@@ -14,6 +20,10 @@ now branch 2
 branch1 do something 17:39
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5131a485e6a8ce6b1bb82cd62afb4d01f2ecd994
 =======
 
 >>>>>>> 5131a485e6a8ce6b1bb82cd62afb4d01f2ecd994
