@@ -2,3 +2,4 @@ test line
 branch 1 content
 branch 1 content 2
 Master did something then
+now branch 2
