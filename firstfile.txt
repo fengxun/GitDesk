@@ -3,5 +3,9 @@ branch 1 content
 branch 1 content 2
 Master did something then
 
+<<<<<<< HEAD
 then change after change
 
+=======
+www
+>>>>>>> a616723afdbb1b305e799de40ac5e37fd8e871d6
